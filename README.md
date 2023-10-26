@@ -22,8 +22,8 @@ Durante o desenvolvimento deste projeto, enfrentamos e superamos os seguintes de
 
 ## Equipe
 
-•	Gustavo Amorim
-•	João Victor Lemos da Silva
-•	Maressa Karen Henrique da Silva
-•	Mariana Franz Marroquim
-•	Wellington Soares Lopes
+- Gustavo Amorim
+- João Victor Lemos da Silva
+- Maressa Karen Henrique da Silva
+- Mariana Franz Marroquim
+- Wellington Soares Lopes
